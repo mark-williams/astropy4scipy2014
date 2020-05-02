@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Produced with astropy.io.votable version 3.2.2
+     http://www.astropy.org/ -->
+<VOTABLE version="1.3" xmlns="http://www.ivoa.net/xml/VOTable/v1.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.ivoa.net/xml/VOTable/v1.3">
+ <RESOURCE type="results">
+  <TABLE>
+   <FIELD ID="name" arraysize="8" datatype="unicodeChar" name="name"/>
+   <FIELD ID="flux" datatype="double" name="flux"/>
+   <FIELD ID="logflux" datatype="double" name="logflux"/>
+   <FIELD ID="flux2" datatype="double" name="flux2"/>
+   <DATA>
+    <TABLEDATA>
+     <TR>
+      <TD>source 1</TD>
+      <TD>1.2</TD>
+      <TD>0.07918124604762482</TD>
+      <TD>1.4</TD>
+     </TR>
+     <TR>
+      <TD>source 2</TD>
+      <TD>2.2</TD>
+      <TD>0.3424226808222063</TD>
+      <TD/>
+     </TR>
+     <TR>
+      <TD>source 3</TD>
+      <TD>3.1</TD>
+      <TD>0.4913616938342727</TD>
+      <TD>3.5</TD>
+     </TR>
+     <TR>
+      <TD>source 4</TD>
+      <TD>4.3</TD>
+      <TD>0.6334684555795865</TD>
+      <TD/>
+     </TR>
+     <TR>
+      <TD>source 5</TD>
+      <TD>10.1</TD>
+      <TD>1.0043213737826426</TD>
+      <TD/>
+     </TR>
+     <TR>
+      <TD>source 8</TD>
+      <TD/>
+      <TD/>
+      <TD>8.6</TD>
+     </TR>
+    </TABLEDATA>
+   </DATA>
+  </TABLE>
+ </RESOURCE>
+</VOTABLE>
